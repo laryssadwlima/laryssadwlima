@@ -11,12 +11,14 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laryssadwlima&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
- 
-#
+<p align="center">
+  
+![image](https://github.com/user-attachments/assets/2ec3661e-066f-4467-bea4-61881b5793db)
 
-<p align="center">Hello Wolrd!
+<p align="center">
+  
 Sou um desenvolvedora iniciante, apaixonada por tecnologia e UX/UI design. Atualmente, estou aprimorando minhas habilidades na faculdade, onde curso Análise e Desenvolvimento de Sistemas. Além disso, estou realizando um curso técnico em Programação de Sistemas e Web no Senac. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. >.<
- 
+  
 #
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/570d8b36-b658-41c6-9d30-3934d19d36d5">
