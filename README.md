@@ -17,7 +17,7 @@
 
 <p align="center">
   
-Sou um desenvolvedora iniciante, apaixonada por tecnologia e UX/UI design. Atualmente, estou aprimorando minhas habilidades na faculdade, onde curso Análise e Desenvolvimento de Sistemas. Além disso, estou realizando um curso técnico em Programação de Sistemas e Web no Senac. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. >.<
+Sou um desenvolvedora iniciante, apaixonada por tecnologia e UX/UI design. Atualmente, estou aprimorando minhas habilidades na faculdade, onde curso Análise e Desenvolvimento de Sistemas. Além disso, estou realizando um curso técnico em Programação de Sistemas e Web no Senac. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
   
 #
 
