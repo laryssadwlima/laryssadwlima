@@ -34,7 +34,7 @@ Sou um desenvolvedora iniciante, apaixonada por tecnologia e UX/UI design. Atua
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:dwlima_@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/laryssadelima/)
 [![Dircord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.gg/laryssadwlima/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/amiledl/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/laryssadwlima/)
 
 <h3 align="left">My Stack ~</h3>
 
