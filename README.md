@@ -32,7 +32,9 @@ Sou um desenvolvedora iniciante, apaixonada por tecnologia e UX/UI design. Atua
   
 #
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/570d8b36-b658-41c6-9d30-3934d19d36d5">
+<img align="right" alt="" height="200px" src="https://github.com/user-attachments/assets/069a2475-04a4-4fe5-affe-f6aed24d827f">
+
+
 
 <h3 align="left">Connect with me!</h3>
 
